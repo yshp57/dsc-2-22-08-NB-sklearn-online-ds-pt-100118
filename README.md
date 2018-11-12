@@ -256,7 +256,7 @@ Scikit learn has built in methods to do this. [Check here](https://scikit-learn.
 
 - Predicting single example
 - Train the classifier using 5-fold cross validation to monitor any improvement/reduction in accuracy 
-- Run this dataset with the Numpy implementation in last lab, and compare results. 
+- Run this dataset with the Numpy implementation in last lab, and compare results
 
 ## Summary
 
