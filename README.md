@@ -329,7 +329,7 @@ accuracy_score(Y_test, Y_pred)
 
 - Predicting single example
 - Train the classifier using 5-fold cross validation to monitor any improvement/reduction in accuracy 
-- Run this dataset with the Numpy implementation in last lab, and compare results. 
+- Run this dataset with the Numpy implementation in last lab, and compare results 
 
 ## Summary
 
